@@ -1,2 +1,3 @@
 # Airlines
-Predicting the number of flyers with the help of time series
+Predicting the airlines revenue and number of flyer on the basis of past data.
+Time series forecasting
